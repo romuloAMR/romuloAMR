@@ -6,7 +6,7 @@ I am a student and researcher in the field of computing
 
 
 
-## 📓 My academic background
+## 📘 Academic background
 
 - Computer technician (IFRN Campus Nova Cruz)
 - Bachelor of Information Technology (UFRN Campus Natal) [Loading...]
@@ -20,7 +20,7 @@ I am a student and researcher in the field of computing
 [![My Skills](https://skillicons.dev/icons?i=haskell&theme=dark&perline=5)](https://skillicons.dev)
 
 ### Most used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romuloAMR&langs_count=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romuloAMR&langs_count=3)
 
 ## 📈 Stats
 ![Rômulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=romuloAMR&show_icons=true&theme=transparent)
