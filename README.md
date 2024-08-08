@@ -15,7 +15,7 @@ I am a student and researcher in the field of computing
 
 | Main Languages & tools | Others Languages & tools |
 |----------|----------|
-| [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,opencv,git,github,vscode,windows,linux&theme=dark&perline=5)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=haskell,md&theme=dark&perline=5)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,windows,linux&theme=dark&perline=5)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=haskell,md&theme=dark&perline=5)](https://skillicons.dev) |
 
 ## 📈 Stats
 ![Rômulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=romuloAMR&show_icons=true&theme=transparent)
