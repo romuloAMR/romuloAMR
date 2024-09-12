@@ -1,13 +1,5 @@
 <body>
-  <h1>Hello everyone, my name is Rômulo</h1>
-  <blockquote>
-    <p>I'm a student and researcher in the field of computing</p>
-    <p>My academic background:</p>
-    <ul>
-      <li>Computer technician (IFRN Campus Nova Cruz)</li>
-      <li>Bachelor of Information Technology (UFRN Campus Natal) [Loading...]</li>
-    </ul>
-  </blockquote>
+  <img src="profile.png">
   
   <h2>📈 Stats:</h2>
   <a href="https://github.com/anuraghazra/github-readme-stats">
