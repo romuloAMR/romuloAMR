@@ -1,5 +1,5 @@
 <body>
-  <h1>😁 Hello everyone, my name is Rômulo</h1>
+  <h1>Hello everyone, my name is Rômulo</h1>
   <blockquote>
     <p>I'm a student and researcher in the field of computing</p>
     <p>My academic background:</p>
@@ -18,37 +18,37 @@
   </a>
   
   <h2>💻 Languages & tools</h2>
-  <ul>
-    <li>
-      <h3>Programming Languages:</h3>
-      <p align="center">
+  <table>
+    <tr>
+      <th>Programming Languages</th>
+      <th>Some Libraries</th>
+      <th>Tools</th>
+    </tr>
+    <tr>
+      <td>
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" />
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-      </p>
-    </li>
-    <li>
-      <h3>Some Libraries:</h3>
-      <p align="center">
+      </td>
+      <td>
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-      </p>
-    </li>
-    <li>
-      <h3>Tools:</h3>
-      <p align="center">
+      </td>
+      <td>
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+        <br>
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
-      </p>
-    </li>
-  </ul>
+      </td>
+    </tr>
+  </table>
+  
 </body>
