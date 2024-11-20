@@ -13,15 +13,18 @@
 <br>
 ![Anaconda](https://img.shields.io/badge/-Anaconda-blue?style=flat-square&logo=anaconda&logoColor=white)
 ![CMD](https://img.shields.io/badge/-CMD-blue?style=flat-square&logo=windows-terminal&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-blue?style=flat-square&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-blue?style=flat-square&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-blue?style=flat-square&logo=linux&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?style=flat-square&logo=matplotlib&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat-square&logo=pandas&logoColor=white)
+![Prompt](https://img.shields.io/badge/-Prompt-blue?style=flat-square&logo=windows-terminal&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-blue?style=flat-square&logo=scikit-learn&logoColor=white)
 ![SFML](https://img.shields.io/badge/-SFML-blue?style=flat-square&logo=sfml&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows&logoColor=white)
-
 
 ## 📈 Github Stats
 <div style="display: flex; justify-content: center;">
