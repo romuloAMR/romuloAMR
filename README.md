@@ -9,6 +9,7 @@
 ![Haskell](https://img.shields.io/badge/-Haskell-blue?style=flat-square&logo=haskell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-blue?style=flat-square&logo=rust&logoColor=white)
+![VHDL](https://img.shields.io/badge/-VHDL-blue?style=flat-square&logo=vhdl&logoColor=white)
 <br>
 <br>
 ![Anaconda](https://img.shields.io/badge/-Anaconda-blue?style=flat-square&logo=anaconda&logoColor=white)
