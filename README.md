@@ -7,6 +7,7 @@
 ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus&logoColor=white)
 ![Haskell](https://img.shields.io/badge/-Haskell-blue?style=flat-square&logo=haskell&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-blue?style=flat-square&logo=rust&logoColor=white)
 ![VHDL](https://img.shields.io/badge/-VHDL-blue?style=flat-square&logo=vhdl&logoColor=white)
