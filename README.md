@@ -13,6 +13,7 @@
 <br>
 <br>
 ![Anaconda](https://img.shields.io/badge/-Anaconda-blue?style=flat-square&logo=anaconda&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-blue?style=flat-square&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-blue?style=flat-square&logo=jupyter&logoColor=white)
