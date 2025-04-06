@@ -12,14 +12,19 @@
 <br>
 <br>
 ![Anaconda](https://img.shields.io/badge/-Anaconda-blue?style=flat-square&logo=anaconda&logoColor=white)
+![DevContainer](https://img.shields.io/badge/-DevContainer-blue?style=flat-square&logo=docker&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-blue?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-blue?style=flat-square&logo=gitlab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-blue?style=flat-square&logo=jupyter&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-blue?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-blue?style=flat-square&logo=langgraph&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-blue?style=flat-square&logo=linux&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?style=flat-square&logo=matplotlib&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat-square&logo=pandas&logoColor=white)
+![Poetry](https://img.shields.io/badge/-Poetry-blue?style=flat-square&logo=poetry&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-blue?style=flat-square&logo=scikit-learn&logoColor=white)
 ![SFML](https://img.shields.io/badge/-SFML-blue?style=flat-square&logo=sfml&logoColor=white)
 
