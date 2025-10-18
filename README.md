@@ -1,7 +1,13 @@
+<div align="center">
+
 [![GitHub Profile](https://github-widgetbox.vercel.app/api/profile?username=RomuloAMR&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
-## 🎓 Academic background:
+
+</div>
+
+## 🎓 Academic background
 - Computer Technician from IFRN (2022)
 - Bachelor's degree in Information Technology from UFRN (Loading...)
+<br>
 
 ## 💻 Technologies
 <div align="center">
