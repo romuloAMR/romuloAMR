@@ -1,21 +1,9 @@
 [![GitHub Profile](img/profile.png)]([https://github.com/Jurredr/github-widgetbox](https://leviarista.github.io/github-profile-header-generator/))
-<details>
-<summary>
- 
 ## :mortar_board: Academic background
-</summary>
- 
 - Computer Technician from IFRN (2022)
 - Bachelor's degree in Information Technology from UFRN (Loading...)
 
-</details>
-
-<details>
-<summary>
- 
 ## :computer: Technologies
-</summary>
-
 **Languages:**\
 ![C](https://img.shields.io/badge/-C-1a2a40?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-1a2a40?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -49,13 +37,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-1a2a40?style=for-the-badge&logo=linux&logoColor=white)
 ![Poetry](https://img.shields.io/badge/-Poetry-1a2a40?style=for-the-badge&logo=poetry&logoColor=white)
 
-</details>
-
-<details>
-<summary>
- 
 ## :octocat: Github
-</summary>
 <div align="center">
 
 [![GitHub Profile](https://github-widgetbox.vercel.app/api/profile?username=RomuloAMR&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
@@ -68,4 +50,3 @@
 | **[Base-Defense](https://github.com/romuloAMR/Base-Defense)** | ![Stars](https://img.shields.io/github/stars/romuloAMR/Base-Defense) | ![Last Commit](https://img.shields.io/github/last-commit/romuloAMR/Base-Defense) | ![Top Language](https://img.shields.io/github/languages/top/romuloAMR/Base-Defense) |
 | **[fmchaskell](https://github.com/romuloAMR/fmchaskell)** | ![Stars](https://img.shields.io/github/stars/romuloAMR/fmchaskell) | ![Last Commit](https://img.shields.io/github/last-commit/romuloAMR/fmchaskell) | ![Top Language](https://img.shields.io/github/languages/top/romuloAMR/fmchaskell) |
 </div>
-</details>
