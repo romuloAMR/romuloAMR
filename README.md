@@ -41,12 +41,4 @@
 <div align="center">
 
 [![GitHub Profile](https://github-widgetbox.vercel.app/api/profile?username=RomuloAMR&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
-| Repository | Stars | Last Update | Main Language |
-|------------|-------|-------------|---------------|
-| **[PythonDataScience](https://github.com/romuloAMR/PythonDataScience)** | ![Stars](https://img.shields.io/github/stars/romuloAMR/PythonDataScience) | ![Last Commit](https://img.shields.io/github/last-commit/romuloAMR/PythonDataScience) | ![Top Language](https://img.shields.io/github/languages/top/romuloAMR/PythonDataScience) |
-| **[Numerical-Methods](https://github.com/romuloAMR/Numerical-Methods)** | ![Stars](https://img.shields.io/github/stars/romuloAMR/Numerical-Methods) | ![Last Commit](https://img.shields.io/github/last-commit/romuloAMR/Numerical-Methods) | ![Top Language](https://img.shields.io/github/languages/top/romuloAMR/Numerical-Methods) |
-| **[NSP](https://github.com/romuloAMR/NSP)** | ![Stars](https://img.shields.io/github/stars/romuloAMR/NSP) | ![Last Commit](https://img.shields.io/github/last-commit/romuloAMR/NSP) | ![Top Language](https://img.shields.io/github/languages/top/romuloAMR/NSP) |
-| **[Vestigio](https://github.com/romuloAMR/Vestigio)** | ![Stars](https://img.shields.io/github/stars/romuloAMR/Vestigio) | ![Last Commit](https://img.shields.io/github/last-commit/romuloAMR/Vestigio) | ![Top Language](https://img.shields.io/github/languages/top/romuloAMR/Vestigio) |
-| **[Base-Defense](https://github.com/romuloAMR/Base-Defense)** | ![Stars](https://img.shields.io/github/stars/romuloAMR/Base-Defense) | ![Last Commit](https://img.shields.io/github/last-commit/romuloAMR/Base-Defense) | ![Top Language](https://img.shields.io/github/languages/top/romuloAMR/Base-Defense) |
-| **[fmchaskell](https://github.com/romuloAMR/fmchaskell)** | ![Stars](https://img.shields.io/github/stars/romuloAMR/fmchaskell) | ![Last Commit](https://img.shields.io/github/last-commit/romuloAMR/fmchaskell) | ![Top Language](https://img.shields.io/github/languages/top/romuloAMR/fmchaskell) |
 </div>
