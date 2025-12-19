@@ -5,14 +5,16 @@
 - Bachelor's degree in Information Technology from UFRN (Loading...)
 
 ## :computer: Technologies
-**Languages:**\
+**Languages:**
+
 ![C](https://img.shields.io/badge/-C-1a2a40?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-1a2a40?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Haskell](https://img.shields.io/badge/-Haskell-1a2a40?style=for-the-badge&logo=haskell&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-1a2a40?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-1a2a40?style=for-the-badge&logo=python&logoColor=white)
 
-**Frameworks & Libraries:**\
+**Frameworks & Libraries:**
+
 ![FastAPI](https://img.shields.io/badge/-FastAPI-1a2a40?style=for-the-badge&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1a2a40?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1a2a40?style=for-the-badge&logo=langgraph&logoColor=white)
@@ -25,7 +27,8 @@
 ![SFML](https://img.shields.io/badge/-SFML-1a2a40?style=for-the-badge&logo=sfml&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-1a2a40?style=for-the-badge&logo=spring&logoColor=white)
 
-**DevOps & tools:**\
+**DevOps & tools:**
+
 ![Anaconda](https://img.shields.io/badge/-Anaconda-1a2a40?style=for-the-badge&logo=anaconda&logoColor=white)
 ![DevContainer](https://img.shields.io/badge/-DevContainer-1a2a40?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-1a2a40?style=for-the-badge&logo=Docker&logoColor=white)
