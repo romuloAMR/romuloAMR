@@ -1,4 +1,5 @@
 [![GitHub Profile](img/profile.png)]([https://github.com/Jurredr/github-widgetbox](https://leviarista.github.io/github-profile-header-generator/))
+
 ## :mortar_board: Academic background
 - Computer Technician from IFRN (2022)
 - Bachelor's degree in Information Technology from UFRN (Loading...)
@@ -36,6 +37,7 @@
 ![LaTeX](https://img.shields.io/badge/-LaTeX-1a2a40?style=for-the-badge&logo=latex&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-1a2a40?style=for-the-badge&logo=linux&logoColor=white)
 ![Poetry](https://img.shields.io/badge/-Poetry-1a2a40?style=for-the-badge&logo=poetry&logoColor=white)
+![SQLite](https://img.shields.io/badge/-Sqlite-1a2a40?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## :octocat: Github
 <div align="center">
