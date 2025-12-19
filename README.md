@@ -47,3 +47,10 @@
 
 [![GitHub Profile](https://github-widgetbox.vercel.app/api/profile?username=RomuloAMR&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 </div>
+
+<div align="center">
+  <a href="https://github.com/romuloAMR">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romuloAMR&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romuloAMR&layout=compact&theme=nord&hide_border=true"/>
+  </a>
+</div>
