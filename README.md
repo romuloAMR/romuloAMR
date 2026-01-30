@@ -23,7 +23,11 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-1a2a40?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-1a2a40?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-1a2a40?style=for-the-badge&logo=plotly&logoColor=white)
+![Pytest](https://img.shields.io/badge/-Pydantic-1a2a40?style=for-the-badge&logo=pydantic&logoColor=white)
+![Pytest](https://img.shields.io/badge/-Pytest-1a2a40?style=for-the-badge&logo=pytest&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-1a2a40?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Sqlalchemy](https://img.shields.io/badge/-Sqlalchemy-1a2a40?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Sqlmodel](https://img.shields.io/badge/-Sqlmodel-1a2a40?style=for-the-badge&logo=sqlmodel&logoColor=white)
 ![SFML](https://img.shields.io/badge/-SFML-1a2a40?style=for-the-badge&logo=sfml&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-1a2a40?style=for-the-badge&logo=spring&logoColor=white)
 
@@ -40,6 +44,8 @@
 ![LaTeX](https://img.shields.io/badge/-LaTeX-1a2a40?style=for-the-badge&logo=latex&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-1a2a40?style=for-the-badge&logo=linux&logoColor=white)
 ![Poetry](https://img.shields.io/badge/-Poetry-1a2a40?style=for-the-badge&logo=poetry&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1a2a40?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-1a2a40?style=for-the-badge&logo=postman&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-Sqlite-1a2a40?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## :octocat: Github
