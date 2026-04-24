@@ -1,4 +1,4 @@
-[![GitHub Profile](img/profile.png)]([https://github.com/Jurredr/github-widgetbox](https://leviarista.github.io/github-profile-header-generator/))
+![Github Header Banner](img/github-header-banner.png)
 
 ## :mortar_board: Academic background
 - Computer Technician from IFRN (2022)
