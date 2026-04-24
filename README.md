@@ -47,6 +47,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1a2a40?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-1a2a40?style=for-the-badge&logo=postman&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-Sqlite-1a2a40?style=for-the-badge&logo=sqlite&logoColor=white)
+![UV](https://img.shields.io/badge/-UV-1a2a40?style=for-the-badge&logo=uv&logoColor=white)
 
 ## :octocat: Github
 <div align="center">
