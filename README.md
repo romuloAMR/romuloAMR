@@ -9,6 +9,7 @@
 
 ![C](https://img.shields.io/badge/-C-1a2a40?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-1a2a40?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-1a2a40?style=for-the-badge&logo=go&logoColor=white)
 ![Haskell](https://img.shields.io/badge/-Haskell-1a2a40?style=for-the-badge&logo=haskell&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-1a2a40?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-1a2a40?style=for-the-badge&logo=python&logoColor=white)
