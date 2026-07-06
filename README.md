@@ -24,8 +24,10 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-2ec97e?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-2ec97e?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-2ec97e?style=for-the-badge&logo=plotly&logoColor=white)
-![Pytest](https://img.shields.io/badge/-Pydantic-2ec97e?style=for-the-badge&logo=pydantic&logoColor=white)
+![Pydantic](https://img.shields.io/badge/-Pydantic-2ec97e?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-2ec97e?style=for-the-badge&logo=pytest&logoColor=white)
+![Pytorch](https://img.shields.io/badge/-Pytorch-2ec97e?style=for-the-badge&logo=pytorch&logoColor=white)
+![PyTorch Lightning](https://img.shields.io/badge/-Lightning-2ec97e?style=for-the-badge&logo=lightning&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-2ec97e?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Sqlalchemy](https://img.shields.io/badge/-Sqlalchemy-2ec97e?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Sqlmodel](https://img.shields.io/badge/-Sqlmodel-2ec97e?style=for-the-badge&logo=sqlmodel&logoColor=white)
@@ -38,6 +40,7 @@
 ![DevContainer](https://img.shields.io/badge/-DevContainer-2ec97e?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2ec97e?style=for-the-badge&logo=Docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2ec97e?style=for-the-badge&logo=docker&logoColor=white)
+![DVC](https://img.shields.io/badge/-Dvc-2ec97e?style=for-the-badge&logo=dvc&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-2ec97e?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-2ec97e?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-2ec97e?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -52,6 +55,9 @@
 
 ## :octocat: Github
 <div align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=RomuloAMR&data=followers,repositories,stars,commits&theme=viridescent" alt="GitHub Profile" />
 
-[![GitHub Profile](https://github-widgetbox.vercel.app/api/profile?username=RomuloAMR&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RomuloAMR&bg_color=transparent&color=2ec97e&line=2ec97e&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="750" />
 </div>
