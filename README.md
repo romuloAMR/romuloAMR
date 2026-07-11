@@ -4,6 +4,11 @@
 - Computer Technician from IFRN (2022)
 - Bachelor's degree in Information Technology from UFRN (Loading...)
 
+## :briefcase: Professional Experience
+* **Superintendency of Information Technology from the Federal University of Rio Grande do Norte (STI - UFRN)**
+  * **Role:** AI Development Fellow (2025 – Present)
+  * **Activities:** Multi-agent systems, neural networks, MLOps, version control, testing, back-end, and Docker.
+
 ## :computer: Technologies
 **Languages:**
 
@@ -32,6 +37,7 @@
 ![Sqlalchemy](https://img.shields.io/badge/-Sqlalchemy-2ec97e?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Sqlmodel](https://img.shields.io/badge/-Sqlmodel-2ec97e?style=for-the-badge&logo=sqlmodel&logoColor=white)
 ![SFML](https://img.shields.io/badge/-SFML-2ec97e?style=for-the-badge&logo=sfml&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-2ec97e?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-2ec97e?style=for-the-badge&logo=spring&logoColor=white)
 
 **DevOps & tools:**
@@ -47,6 +53,8 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-2ec97e?style=for-the-badge&logo=jupyter&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-2ec97e?style=for-the-badge&logo=latex&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-2ec97e?style=for-the-badge&logo=linux&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-2ec97e?style=for-the-badge&logo=apachemaven&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-2ec97e?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Poetry](https://img.shields.io/badge/-Poetry-2ec97e?style=for-the-badge&logo=poetry&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2ec97e?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-2ec97e?style=for-the-badge&logo=postman&logoColor=white)
