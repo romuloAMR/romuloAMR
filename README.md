@@ -57,6 +57,125 @@
 ![SQLite](https://img.shields.io/badge/-Sqlite-2ec97e?style=for-the-badge&logo=sqlite&logoColor=white)
 ![UV](https://img.shields.io/badge/-UV-2ec97e?style=for-the-badge&logo=uv&logoColor=white)
 
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  
+### [K-Means](https://github.com/romuloAMR/K-Means)
+K-Means implementations using various concurrency and optimization techniques.
+
+**Technologies**
+
+![Go](https://img.shields.io/badge/Go-2ec97e?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-2ec97e?style=for-the-badge&logo=java&logoColor=white)
+![Optimization](https://img.shields.io/badge/Optimization-2ec97e?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-2ec97e?style=for-the-badge)
+
+</td>
+
+<td width="50%" valign="top">
+
+### [Toy Bank](https://github.com/romuloAMR/Toy-Bank)
+
+Simplified API with a mock database to practice GitLab Flow, Docker, Git Hooks, and GitHub Actions.
+
+**Technologies**
+
+![Python](https://img.shields.io/badge/Python-2ec97e?style=for-the-badge&logo=python&logoColor=white)
+![Version Control](https://img.shields.io/badge/Version_Control-2ec97e?style=for-the-badge)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [FSSP](https://github.com/romuloAMR/FSSP)
+
+Resolution of the Flow Shop Scheduling Problem.
+
+**Technologies**
+
+![Python](https://img.shields.io/badge/Python-2ec97e?style=for-the-badge&logo=python&logoColor=white)
+![Operations Research](https://img.shields.io/badge/Operations_Research-2ec97e?style=for-the-badge)
+
+</td>
+
+<td width="50%" valign="top">
+
+### [Poke-Clusters](https://github.com/romuloAMR/Poke-Clusters)
+
+Analysis and clustering project using Pokémon data.
+
+**Technologies**
+
+![Python](https://img.shields.io/badge/Python-2ec97e?style=for-the-badge&logo=python&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-2ec97e?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-2ec97e?style=for-the-badge)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [Numerical Methods](https://github.com/romuloAMR/Numerical-Methods)
+
+Implementation and study of computational numerical methods.
+
+**Technologies**
+
+![Python](https://img.shields.io/badge/Python-2ec97e?style=for-the-badge&logo=python&logoColor=white)
+![Mathematics](https://img.shields.io/badge/Numerical_Methods-2ec97e?style=for-the-badge)
+
+</td>
+
+<td width="50%" valign="top">
+
+### [Streaming EDA](https://github.com/romuloAMR/Streaming-EDA)
+
+Exploratory Data Analysis applied to streaming datasets.
+
+**Technologies**
+
+![Python](https://img.shields.io/badge/Python-2ec97e?style=for-the-badge&logo=python&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-2ec97e?style=for-the-badge)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [NSP](https://github.com/romuloAMR/NSP)
+
+Resolution of the Nurse Scheduling Problem.
+
+**Technologies**
+
+![Python](https://img.shields.io/badge/Python-2ec97e?style=for-the-badge&logo=python&logoColor=white)
+![Operations Research](https://img.shields.io/badge/Operations_Research-2ec97e?style=for-the-badge)
+
+</td>
+
+<td width="50%" valign="top">
+
+### [Python Data Science](https://github.com/romuloAMR/PythonDataScience)
+
+Studies and experiments in Python regarding Data Science and Machine Learning.
+
+**Technologies**
+
+![Python](https://img.shields.io/badge/Python-2ec97e?style=for-the-badge&logo=python&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-2ec97e?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-2ec97e?style=for-the-badge)
+
+</td>
+</tr>
+</table>
+
 ## Github
 ![GitHub Profile](https://github-widgetbox.vercel.app/api/profile?username=RomuloAMR&data=followers,repositories,stars,commits&theme=viridescent)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RomuloAMR&bg_color=transparent&color=2ec97e&line=2ec97e&point=ffffff&area=true&hide_border=true)
