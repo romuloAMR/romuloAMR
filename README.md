@@ -36,7 +36,7 @@
 ![Spark](https://img.shields.io/badge/Spark-2ec97e?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-2ec97e?style=for-the-badge&logo=spring&logoColor=white)
 
-**DevOps & tools:**
+**DevOps & Tools:**
 
 ![Anaconda](https://img.shields.io/badge/-Anaconda-2ec97e?style=for-the-badge&logo=anaconda&logoColor=white)
 ![DevContainer](https://img.shields.io/badge/-DevContainer-2ec97e?style=for-the-badge&logo=docker&logoColor=white)
@@ -58,10 +58,5 @@
 ![UV](https://img.shields.io/badge/-UV-2ec97e?style=for-the-badge&logo=uv&logoColor=white)
 
 ## Github
-<div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=RomuloAMR&data=followers,repositories,stars,commits&theme=viridescent" alt="GitHub Profile" />
-
-  <br><br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RomuloAMR&bg_color=transparent&color=2ec97e&line=2ec97e&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="750" />
-</div>
+![GitHub Profile](https://github-widgetbox.vercel.app/api/profile?username=RomuloAMR&data=followers,repositories,stars,commits&theme=viridescent)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RomuloAMR&bg_color=transparent&color=2ec97e&line=2ec97e&point=ffffff&area=true&hide_border=true)
