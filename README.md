@@ -1,22 +1,18 @@
 ![Github Header Banner](img/github-header-banner.png)
 
-## :mortar_board: Academic background
-- Computer Technician from IFRN (2022)
-- Bachelor's degree in Information Technology from UFRN (Loading...)
+## Background
+* **:mortar_board: Education:** Computer Technician (IFRN, 2022) · B.Sc. in Information Technology (UFRN, 2023–Present)
+* **:briefcase: Experience:** AI Development Fellow at STI/UFRN (2025–Present)
+* **:mag_right: Focus:** Data Science · Machine Learning · Neural Networks · Multi-agent AI Systems · MLOps · Operational Research · Algorithm Optimization · Backend Development · Version Control
 
-## :briefcase: Professional Experience
-* **Superintendency of Information Technology from the Federal University of Rio Grande do Norte (STI - UFRN)**
-  * **Role:** AI Development Fellow (2025 – Present)
-  * **Activities:** Multi-agent systems, neural networks, MLOps, version control, testing, back-end, and Docker.
-
-## :computer: Technologies
+## Technologies
 **Languages:**
 
 ![C](https://img.shields.io/badge/-C-2ec97e?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-2ec97e?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-2ec97e?style=for-the-badge&logo=go&logoColor=white)
 ![Haskell](https://img.shields.io/badge/-Haskell-2ec97e?style=for-the-badge&logo=haskell&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-2ec97e?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-2ec97e?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-2ec97e?style=for-the-badge&logo=python&logoColor=white)
 
 **Frameworks & Libraries:**
@@ -61,7 +57,7 @@
 ![SQLite](https://img.shields.io/badge/-Sqlite-2ec97e?style=for-the-badge&logo=sqlite&logoColor=white)
 ![UV](https://img.shields.io/badge/-UV-2ec97e?style=for-the-badge&logo=uv&logoColor=white)
 
-## :octocat: Github
+## Github
 <div align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=RomuloAMR&data=followers,repositories,stars,commits&theme=viridescent" alt="GitHub Profile" />
 
