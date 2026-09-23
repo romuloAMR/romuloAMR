@@ -1,19 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0d1b2a,100:1e90ff&section=header&reversal=false&text=R%C3%B4mulo%20Alves&fontColor=ffffff&textBg=false&fontSize=60&fontAlign=50&fontAlignY=42&animation=scaleIn&rotate=0&strokeWidth=0&desc=AI%20Developer%20%7C%20B.Sc.%20in%20IT%20at%20UFRN&descColor=cce3ff&descSize=20&descAlign=50&descAlignY=62" alt="Github Header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=1e90ff&section=header&reversal=false&text=R%C3%B4mulo%20Alves&fontColor=ffffff&textBg=false&fontSize=60&fontAlign=50&fontAlignY=42&animation=None&rotate=0&strokeWidth=0&desc=AI/Back-end%20Engineer%20%7C%20B.Sc.%20in%20IT%20at%20UFRN&descColor=cce3ff&descSize=20&descAlign=50&descAlignY=62" alt="Github Header" />
 </p>
 
-## Background
-### :mortar_board: Education
-* **B.Sc. in Information Technology** | UFRN *(2023 – Present)*
-* **Computer Technician** | IFRN *(2022)*
+## Professional Experience
 
-### :briefcase: Experience
-* **AI Development Fellow** | STI / UFRN *(2025 – Present)*
+**Junior AI & Backend Engineer** - STI / UFRN  
+`2025 - Present`
 
-### :mag_right: Focus
-* **AI & Machine Learning:** Neural Networks · Multi-agent Systems · Data Science
-* **Optimization & Math:** Operational Research · Algorithm Optimization
-* **Engineering & Ops:** MLOps · Backend Development · Version Control
+* **Microservices:** Architecture and deployment of backend services using `Python` and `Java`.
+* **Multi-Agent Systems:** Design and orchestration of intelligent agent workflows.
+* **Pipelines & Modeling:** Creation of data pipelines, model training, and validation.
+* **MLOps & Infrastructure:** Telemetry, automated testing, and containerization.
+
+## Academic Background
+
+**B.Sc. in Information Technology - Major in Computer Science**  
+IMD / UFRN &bull; `2023 – Present`
+
+**Vocational Technical Certification in Informatics**  
+IFRN &bull; `2019 – 2022`
 
 ## Technologies
 | Category | Technologies |
@@ -22,8 +27,8 @@
 | **AI, Machine Learning & MLOps** | `DVC` `LangChain` `LangGraph` `MLflow` `NetworkX` `NumPy` `Pandas` `PyTorch` `PyTorch Lightning` `Scikit-Learn` |
 | **Backend & Databases** | `FastAPI` `PostgreSQL` `Pydantic` `Spark` `Spring` `SQLAlchemy` `SQLite` `SQLModel` |
 | **DevOps & Infrastructure** | `DevContainers` `Docker` `Docker Compose` `Git` `GitHub` `GitLab` `Linux` |
-| **Testing & Developer Tools** | `Anaconda` `Jupyter` `LaTeX` `Maven` `MyPy` `Poetry` `Postman` `Pytest` `Ruff` `UV` |
-| **Visualization & Graphics** | `Matplotlib` `Plotly` `SFML` |
+| **Testing & Developer Tools** | `Anaconda` `JFR` `JMC` `JMH` `Jupyter` `Maven` `MyPy` `Poetry` `Postman` `Pytest` `Ruff` `UV` |
+| **Visualization & Graphics** | `Matplotlib` `Plotly` `Seaborn` `SFML` |
 
 ## Projects
 
@@ -33,8 +38,6 @@
   
 ### [K-Means](https://github.com/romuloAMR/K-Means)
 K-Means implementations using various concurrency and optimization techniques.
-
-**Technologies**
 
 ![Go](https://img.shields.io/badge/Go-1e90ff?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-1e90ff?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -49,8 +52,6 @@ K-Means implementations using various concurrency and optimization techniques.
 
 Simplified API with a mock database to practice GitLab Flow, Docker, Git Hooks, and GitHub Actions.
 
-**Technologies**
-
 ![Python](https://img.shields.io/badge/Python-1e90ff?style=for-the-badge&logo=python&logoColor=white)
 ![Version Control](https://img.shields.io/badge/Version_Control-1e90ff?style=for-the-badge)
 
@@ -64,8 +65,6 @@ Simplified API with a mock database to practice GitLab Flow, Docker, Git Hooks, 
 
 Resolution of the Flow Shop Scheduling Problem.
 
-**Technologies**
-
 ![Python](https://img.shields.io/badge/Python-1e90ff?style=for-the-badge&logo=python&logoColor=white)
 ![Operations Research](https://img.shields.io/badge/Operations_Research-1e90ff?style=for-the-badge)
 
@@ -76,8 +75,6 @@ Resolution of the Flow Shop Scheduling Problem.
 ### [Poke-Clusters](https://github.com/romuloAMR/Poke-Clusters)
 
 Analysis and clustering project using Pokémon data.
-
-**Technologies**
 
 ![Python](https://img.shields.io/badge/Python-1e90ff?style=for-the-badge&logo=python&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data_Science-1e90ff?style=for-the-badge)
@@ -93,8 +90,6 @@ Analysis and clustering project using Pokémon data.
 
 Implementation and study of computational numerical methods.
 
-**Technologies**
-
 ![Python](https://img.shields.io/badge/Python-1e90ff?style=for-the-badge&logo=python&logoColor=white)
 ![Mathematics](https://img.shields.io/badge/Numerical_Methods-1e90ff?style=for-the-badge)
 
@@ -105,8 +100,6 @@ Implementation and study of computational numerical methods.
 ### [Streaming EDA](https://github.com/romuloAMR/Streaming-EDA)
 
 Exploratory Data Analysis applied to streaming datasets.
-
-**Technologies**
 
 ![Python](https://img.shields.io/badge/Python-1e90ff?style=for-the-badge&logo=python&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data_Science-1e90ff?style=for-the-badge)
@@ -121,8 +114,6 @@ Exploratory Data Analysis applied to streaming datasets.
 
 Resolution of the Nurse Scheduling Problem.
 
-**Technologies**
-
 ![Python](https://img.shields.io/badge/Python-1e90ff?style=for-the-badge&logo=python&logoColor=white)
 ![Operations Research](https://img.shields.io/badge/Operations_Research-1e90ff?style=for-the-badge)
 
@@ -133,8 +124,6 @@ Resolution of the Nurse Scheduling Problem.
 ### [Python Data Science](https://github.com/romuloAMR/PythonDataScience)
 
 Studies and experiments in Python regarding Data Science and Machine Learning.
-
-**Technologies**
 
 ![Python](https://img.shields.io/badge/Python-1e90ff?style=for-the-badge&logo=python&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data_Science-1e90ff?style=for-the-badge)
