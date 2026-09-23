@@ -2,23 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=1e90ff&section=header&reversal=false&text=R%C3%B4mulo%20Alves&fontColor=ffffff&textBg=false&fontSize=60&fontAlign=50&fontAlignY=42&animation=None&rotate=0&strokeWidth=0&desc=AI/Back-end%20Engineer%20%7C%20B.Sc.%20in%20IT%20at%20UFRN&descColor=cce3ff&descSize=20&descAlign=50&descAlignY=62" alt="Github Header" />
 </p>
 
-## Professional Experience
-
-**Junior AI & Backend Engineer** - STI / UFRN  
-`2025 - Present`
-
-* **Microservices:** Architecture and deployment of backend services using `Python` and `Java`.
-* **Multi-Agent Systems:** Design and orchestration of intelligent agent workflows.
-* **Pipelines & Modeling:** Creation of data pipelines, model training, and validation.
-* **MLOps & Infrastructure:** Telemetry, automated testing, and containerization.
-
-## Academic Background
-
-**B.Sc. in Information Technology - Major in Computer Science**  
-IMD / UFRN &bull; `2023 – Present`
-
-**Vocational Technical Certification in Informatics**  
-IFRN &bull; `2019 – 2022`
+<p align="center">
+  <a href="https://www.linkedin.com/in/r%C3%B4mulo-alves-518867381" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1e90ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="http://lattes.cnpq.br/0083102723693057" target="_blank"><img src="https://img.shields.io/badge/Curr%C3%ADculo_Lattes-1e90ff?style=for-the-badge&logo=academia&logoColor=white" alt="Lattes" /></a>
+</p>
 
 ## Technologies
 | Category | Technologies |
