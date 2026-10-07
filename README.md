@@ -14,9 +14,9 @@
 | **Languages** | `C` `C++` `Go` `Haskell` `Java` `Python` |
 | **AI, Machine Learning & MLOps** | `DVC` `LangChain` `LangGraph` `MLflow` `NetworkX` `NumPy` `Pandas` `PyTorch` `PyTorch Lightning` `Scikit-Learn` |
 | **Backend & Databases** | `FastAPI` `PostgreSQL` `Pydantic` `Spark` `Spring` `SQLAlchemy` `SQLite` `SQLModel` |
-| **DevOps & Infrastructure** | `DevContainers` `Docker` `Docker Compose` `Git` `GitHub` `GitLab` `Linux` |
-| **Testing & Developer Tools** | `Anaconda` `JFR` `JMC` `JMH` `Jupyter` `Maven` `MyPy` `Poetry` `Postman` `Pytest` `Ruff` `UV` |
-| **Visualization & Graphics** | `Matplotlib` `Plotly` `Seaborn` `SFML` |
+| **DevOps & Infrastructure** | `DevContainers` `Docker` `Docker Compose` `Git` `GitHub` `GitLab` `Linux` `Loki` `Open-Telemetry` `Prometheus` `Tempo`|
+| **Testing & Developer Tools** | `Anaconda` `JFR` `JMC` `JMH` `Jupyter` `K6` `Maven` `MyPy` `Poetry` `Postman` `Pytest` `Ruff` `UV` |
+| **Visualization & Graphics** | `Matplotlib` `Plotly` `Seaborn` `SFML` `Grafana`|
 
 ## Projects
 
